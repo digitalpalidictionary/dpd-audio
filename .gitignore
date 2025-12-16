@@ -1,3 +1,6 @@
+__pycache__/*
+db/__pycache__/*
+db/dpd_audio.db
+db/models.py
 mp3s/*
 tests/mp3s
-__pycache__/*
